@@ -1,6 +1,7 @@
 =---------------------------------------=
 Simple VueJS UI for my graduation project
 =---------------------------------------=
+
 Instruction:
 1. git clone https://github.com/nuibof/datn-frontend.git
 2. cd datn-frontend
